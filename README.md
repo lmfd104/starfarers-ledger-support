@@ -9,4 +9,4 @@ Open a [new bug report](https://github.com/lmfd104/starfarers-ledger-support/iss
 Open a [feature request](https://github.com/lmfd104/starfarers-ledger-support/issues/new?template=feature_request.yml).
 
 ## Community
-Join the discussion on Discord — invite link coming soon.
+Join the discussion on [our Discord server](https://discord.gg/neNdzgu8Fy) — the #🚀-starfarers-ledger channel is the place for this app.
